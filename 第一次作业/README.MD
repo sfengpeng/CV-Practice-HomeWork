@@ -1,0 +1,4 @@
+环境准备:
+pip install numpy
+pip install opencv-python
+pip install opencv-contrib-python
